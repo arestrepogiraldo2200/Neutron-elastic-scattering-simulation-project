@@ -1,0 +1,61 @@
+--------Fix-Target-Experiment
+Mono-energetic neutron beam, a film
+of heavy nuclei and a counter
+
+
+--------Scattering cross section 
+It gives an information about the probability,
+that a neutron (or any other particle) is being deflected by a certain angle after the collision
+with another particle (e.g. a nucleus) and therefore passing a certain area.It depends on the
+energy of the neutrons and on the atoms that build up the film.
+
+
+
+Dependence of scattering cross sections on those two
+parameters.
+
+
+Incoming free particles as a plane wave exp(ikz)
+neglect the fact of polarization
+
+
+f(θ)exp(ikr)/r
+
+
+Schrödinger equation
+The mass is represented by the reduced mass of the neutron-nucleus system
+
+
+ψ(r) → exp(ikz) + f(θ)exp(ikr)r,    r → ∞.
+Asymptotic form of the wave function is used, is that the observer (in this
+case the counter) is far away compared to the size of the neutrons and nuclei and is therefore
+in the asymptotic region.
+
+
+
+
+
+More generally the Woods-Saxon potential is a spherically
+symmetric potential and describes the forces on each nucleon inside the nucleus in the nuclear
+shell model
+
+
+Extending a potential or any other quantity by an imaginary part is very intuitive, as we
+must only add an imaginary potential to the real one.
+---The main motivation behind introducing an imaginary part into our potential is to consider
+absorption effects that occur when incoming particles encounter the nucleus
+
+
+
+------------------Spin-orbit term
+It then makes a difference, whether the orbital angular
+momentum vector is parallel or anti-parallel to the spin angular momentum vector, as the
+scattered beams will be diffracted in a slightly different angle
+
+
+
+
+
+
+
+
